@@ -1,6 +1,11 @@
-# Howdy! 👋 👌
+<p align="center"> 
+  <img src="https://c.tenor.com/TTVrO7TLRGoAAAAd/raiden-shogun.gif" />
+</p>
 
-I am a Full Stack Developer from the Philippines. Welcome to my Github Repository.
+<h1 align="center">Howdy! 👋</h1>
+<p align="center">
+  I am a Full Stack Developer from the Philippines. Welcome to my Github Repository.
+</p>
 
 <details>
   <summary>📊 Github Stats</summary>
