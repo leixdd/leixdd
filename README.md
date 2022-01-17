@@ -1,4 +1,4 @@
-# Lei 💻 
+# Howdy! 👋 👌
 
 I am a Full Stack Developer from the Philippines. Welcome to my Github Repository.
 
