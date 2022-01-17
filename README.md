@@ -28,4 +28,4 @@
 
 ## 🎧 Music
 
-![Spotify Tracks](https://spotify-recently-played-readme.vercel.app/api?user=22dkzdziuaqf5uvai4r4c7pmy&count=7&unique=true)
+![Spotify Tracks](https://spotify-recently-played-readme.vercel.app/api?user=22dkzdziuaqf5uvai4r4c7pmy&count=10&unique=true)
