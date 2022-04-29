@@ -25,7 +25,3 @@
   ![Lei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leixdd&theme=merko)
 
 </details>
-
-## 🎧 Music
-
-![Spotify Tracks](https://spotify-recently-played-readme.vercel.app/api?user=22dkzdziuaqf5uvai4r4c7pmy&count=10&unique=true)
